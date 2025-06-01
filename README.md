@@ -1,77 +1,60 @@
 <h1 align="center">Hi there 👋, I'm Aaryan Singh Rawat</h1>
-<h3 align="center">Aspiring Full Stack Developer | ML Enthusiast | Tech Explorer 🚀</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Enthusiast | Tech Explorer</h3>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 B.Tech CSE Student at VIT Bhopal (Batch 2022–2026)  
-- 🔭 Currently working on: `AgriPort` – a comprehensive agricultural portal  
-- 🌱 Learning: Advanced Backend (Django), Machine Learning, and DevOps  
-- 👯 Open to collaborate on ML/Web projects & hackathons  
-- 💬 Ask me about Java, Flask, JS, ML, DSA  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aaryan-singh-rawat) | [Email](mailto:aaryansinghrawat@gmail.com)  
-- ⚡ Fun fact: I can paint t-shirts and build APIs with the same passion 🎨💻  
+- 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
+- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js  
+- 🌱 Learning: Advanced Backend, System Design & Deployment  
+- 👯 Open to collaborate on real-world full stack projects & hackathons  
+- 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
+- 📫 Email: aaryansinghrawat20044@gmail.com  
+- 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
+- ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻  
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+**Frontend**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend & ML:**  
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+---
+
+### 🛠️ Featured Projects
+
+- 🔹 **MediPred** – A user-friendly medical record & diagnosis platform  
+- 🔹 **CourseCom** – Course comparison and recommendation tool  
+- 🔹 **Farm Management System** – Manage crops, inventory, and sales  
+- 🔹 **Doctor Appointment App** – Book and manage health appointments  
+- 🔹 **Blood Donation Portal** – Connect donors with seekers easily  
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryansinghrawat&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansinghrawat&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react" height="160"/>
 </p>
 
 ---
 
-### 🚀 Projects Showcase
+### 🤝 Connect With Me
 
-- **MediPred** – A disease prediction platform using ML & Flask  
-- **CourseCom** – Course comparison chatbot using NLP and web scraping  
-- **Car Trading Website** – Full-stack CRUD app with advanced filtering  
-- **AgriPort** – Comprehensive agri portal with ML, weather API, and marketplace  
+<a href="https://www.linkedin.com/in/aaryan-singh-rawat-575722252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
+<a href="mailto:aaryansinghrawat20044@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
 
----
-
-### 🏆 Achievements
-
-- 🥇 Hackathon Finalist – Smart Indian Hackathon 2024  
-- 👨‍🏫 Student Coordinator – Meraki Club (VIT Bhopal)  
-- ✨ Top Performer – Web Dev Bootcamp & DSA Training  
-
----
-
-### 🤝 Let’s Connect
-
-<a href="https://www.linkedin.com/in/aaryan-singh-rawat"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:aaryansinghrawat@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://aaryanportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=web&logoColor=white"></a>
-
----
-
-_“Code with purpose, paint with passion.”_
 
