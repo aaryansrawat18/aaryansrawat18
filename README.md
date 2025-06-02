@@ -6,17 +6,16 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js   
-- 👯 Open to collaborate on real-world full stack projects & hackathons  
+- 🔭 Currently building: Full Stack Web Apps using MERN & Next.js  
+- 👯 Looking to collaborate on real-world projects & hackathons  
 - 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
-- 📫 Email: aaryansinghrawat20044@gmail.com  
-- 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
-- ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻  
+- 📫 Reach me at: aaryansinghrawat20044@gmail.com  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
+- ⚡ Fun fact: I enjoy coding interfaces as much as organizing club events 🎨💻  
 
 ---
 
 ### 💻 Tech Stack
-
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
@@ -32,15 +31,17 @@
 
 ### 🛠️ Featured Projects
 
-- 🔹 **MediPred** – A user-friendly medical record & diagnosis platform  
-- 🔹 **CourseCom** – Course comparison and recommendation tool  
-- 🔹 **Farm Management System** – Manage crops, inventory, and sales  
+- 🔹 **MediPred** – A user-friendly platform for diagnosis & record-keeping  
+- 🔹 **CourseCom** – Smart course comparison & recommendation chatbot  
+- 🔹 **Farm Management System** – Tools for inventory, sales & crop management  
 - 🔹 **Doctor Appointment App** – Book and manage health appointments  
-- 🔹 **Blood Donation Portal** – Connect donors with seekers easily  
+- 🔹 **Blood Donation Portal** – Connects blood donors with seekers efficiently  
 
 ---
 
 ### 📊 GitHub Stats
+
+> ⚠️ **Note:** Stats only reflect public contributions. Make sure your commits are made using your verified GitHub email.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&theme=react" height="160" />
@@ -53,5 +54,3 @@
 
 <a href="https://www.linkedin.com/in/aaryan-singh-rawat-575722252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
 <a href="mailto:aaryansinghrawat20044@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
-
-
