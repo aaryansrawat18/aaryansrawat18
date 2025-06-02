@@ -6,12 +6,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently building: Full Stack Web Apps using MERN & Next.js  
-- 👯 Looking to collaborate on real-world projects & hackathons  
+- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js   
+- 👯 Open to collaborate on real-world full stack projects & hackathons  
 - 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
-- 📫 Reach me at: aaryansinghrawat20044@gmail.com  
-- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
-- ⚡ Fun fact: I enjoy coding interfaces as much as organizing club events 🎨💻  
+- 📫 Email: aaryansinghrawat20044@gmail.com  
+- 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
+- ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻  
 
 ---
 
@@ -31,20 +31,22 @@
 
 ### 🛠️ Featured Projects
 
-- 🔹 **MediPred** – A user-friendly platform for diagnosis & record-keeping  
-- 🔹 **CourseCom** – Smart course comparison & recommendation chatbot  
-- 🔹 **Farm Management System** – Tools for inventory, sales & crop management  
+- 🔹 **MediPred** – A user-friendly medical record & diagnosis platform  
+- 🔹 **CourseCom** – Course comparison and recommendation tool  
+- 🔹 **Farm Management System** – Manage crops, inventory, and sales  
 - 🔹 **Doctor Appointment App** – Book and manage health appointments  
-- 🔹 **Blood Donation Portal** – Connects blood donors with seekers efficiently  
+- 🔹 **Blood Donation Portal** – Connect donors with seekers easily  
 
 ---
 
 ### 📊 GitHub Stats
 
-> ⚠️ **Note:** Stats only reflect public contributions. Make sure your commits are made using your verified GitHub email.
+<!-- 💡 To include private commits, make sure you've done these steps:
+1. Go to GitHub Settings → Profile → Check “Include private contributions on my profile”
+2. If using GitHub Readme Stats, deploy your own with a GitHub token (count_private=true) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&theme=react" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&count_private=true&theme=react" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react" height="160"/>
 </p>
 
@@ -52,5 +54,9 @@
 
 ### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/aaryan-singh-rawat-575722252/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:aaryansinghrawat20044@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aaryan-singh-rawat-575722252/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:aaryansinghrawat20044@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white">
+</a>
