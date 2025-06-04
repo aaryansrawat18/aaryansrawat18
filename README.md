@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js   
+- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js  
 - 👯 Open to collaborate on real-world full stack projects & hackathons  
 - 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
 - 📫 Email: aaryansinghrawat20044@gmail.com  
@@ -41,14 +41,14 @@
 
 ### 📊 GitHub Stats
 
-<!-- 💡 To include private commits, make sure you've done these steps:
-1. Go to GitHub Settings → Profile → Check “Include private contributions on my profile”
-2. If using GitHub Readme Stats, deploy your own with a GitHub token (count_private=true) -->
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryansrawat18&show_icons=true&count_private=true&theme=react" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react&hide=python,c,cpp,shell,php,ruby,typescript" height="160"/>
 </p>
+
+<!-- 
+Note: Only the languages you're using (Java, JavaScript, HTML, CSS, React, Node.js, MongoDB, SQL) will be shown by hiding all unrelated ones.
+-->
 
 ---
 
@@ -58,5 +58,5 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:aaryansinghrawat20044@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
