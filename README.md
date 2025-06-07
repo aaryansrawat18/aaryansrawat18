@@ -29,16 +29,6 @@
 
 ---
 
-### 🛠️ Featured Projects
-
-- 🔹 **MediPred** – A user-friendly medical record & diagnosis platform  
-- 🔹 **CourseCom** – Course comparison and recommendation tool  
-- 🔹 **Farm Management System** – Manage crops, inventory, and sales  
-- 🔹 **Doctor Appointment App** – Book and manage health appointments  
-- 🔹 **Blood Donation Portal** – Connect donors with seekers easily  
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
