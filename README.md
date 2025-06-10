@@ -40,9 +40,7 @@
 
 ## 🧠 LeetCode Stats – Aaryan Singh Rawat
 
-<p align="center">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode Logo" width="200" />
-</p>
+
 
 <p align="center">
   <a href="https://leetcode.com/aaryansrawat18" target="_blank">
