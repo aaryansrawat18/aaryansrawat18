@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently working on: Full Stack Web Apps using MERN and Next.js  
+- 🔭 Currently working on: Full Stack Web Apps using MERN  
 - 👯 Open to collaborate on real-world full stack projects & hackathons  
 - 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
 - 📫 Email: aaryansinghrawat20044@gmail.com  
@@ -36,9 +36,33 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryansrawat18&layout=compact&theme=react&hide=python,c,cpp,shell,php,ruby,typescript" height="160"/>
 </p>
 
-<!-- 
-Note: Only the languages you're using (Java, JavaScript, HTML, CSS, React, Node.js, MongoDB, SQL) will be shown by hiding all unrelated ones.
--->
+---
+
+## 🧠 LeetCode Stats – Aaryan Singh Rawat
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="LeetCode Logo" width="200" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/aaryansrawat18" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-aaryansrawat18-blue.svg?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LeetCode Username Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=aaryansrawat18&theme=dark" alt="LeetCode Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-150-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="Easy Badge" />
+  <img src="https://img.shields.io/badge/Medium-100-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Medium Badge" />
+  <img src="https://img.shields.io/badge/Hard-50-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Badge" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/aaryansrawat18" target="_blank">🔗 Click here to visit my LeetCode profile</a>
+</p>
 
 ---
 
@@ -48,5 +72,5 @@ Note: Only the languages you're using (Java, JavaScript, HTML, CSS, React, Node.
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:aaryansinghrawat20044@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white">
 </a>
