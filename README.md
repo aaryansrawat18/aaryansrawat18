@@ -58,9 +58,7 @@
   <img src="https://img.shields.io/badge/Hard-50-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Hard Badge" />
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/aaryansrawat18" target="_blank">🔗 Click here to visit my LeetCode profile</a>
-</p>
+
 
 ---
 
