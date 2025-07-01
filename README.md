@@ -12,9 +12,7 @@
 - 📫 Email: aaryansinghrawat20044@gmail.com  
 - 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
 - ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻
-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaryansrawat18&label=Profile%20views&color=0e75b6&style=flat" alt="aaryansrawat18" />
-</p>
+
 
 ---
 
