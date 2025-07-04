@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻
 
 
----
+--
 
 ### 💻 Tech Stack
 
