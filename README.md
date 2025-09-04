@@ -5,14 +5,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🎓 B.Tech CSE Student at VIT Bhopal (2022–2026)  
-- 🔭 Currently working on: Full Stack Web Apps using MERN  
-- 👯 Open to collaborate on real-world full stack projects & hackathons  
-- 💬 Ask me about React, Node.js, MongoDB, SQL, Java  
-- 📫 Email: aaryansinghrawat20044@gmail.com  
-- 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
-- ⚡ Fun fact: I love coding interfaces as much as organizing club events 🎨💻
+## 👨‍💻 About Me  
 
+**🎓 B.Tech CSE Student | VIT Bhopal (2022–2026)**  
+
+**- Currently Working On:** Full Stack Web Apps using the **MERN Stack** & **GenAI** <br>
+**-Open to Collaborate On:** Full stack projects, open-source contributions & hackathons  
+**-Technical Expertise:** React, Node.js, MongoDB, SQL, Java <br>
+**📫 Reach Me At:** [aaryansinghrawat20044@gmail.com](mailto:aaryansinghrawat20044@gmail.com)  
+**💼 Connect on LinkedIn:** [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
+<br>
+**⚡ Fun Fact:** I enjoy building intuitive interfaces just as much as organizing community & club events.  
 
 
 
