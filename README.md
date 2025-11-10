@@ -5,13 +5,16 @@
 
 ## 👨‍💻 About Me
 
-**🎓 B.Tech CSE Student | VIT Bhopal (2022–2026)**  
-- **Currently Working On:** MERN Stack Web Apps & GenAI Integrations  
-- **Open to Collaborate On:** Full Stack Projects, Hackathons & Open-Source  
-- **Technical Expertise:** React, Node.js, MongoDB, SQL, Java  
+**🎓 B.Tech CSE Student | VIT Bhopal (2022–2026)**
+
+- **Currently Working On:** MERN Stack Applications, GenAI based Web Integrations, RAG Pipelines, and LLM Prompt Engineering  
+- **Open to Collaborate On:** Full Stack Projects, GenAI Tools, Open-Source, and Hackathons  
+- **Technical Expertise:** React, Node.js, MongoDB, SQL, Java, Python, FastAPI, LangChain  
+- **GenAI Focus Areas:** Model Fine-tuning, Vector Databases, Embeddings, Prompt Optimization, and Workflow Automation  
 - **📫 Reach Me:** **aaryansinghrawat20044@gmail.com**  
 - **💼 LinkedIn:** [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)  
-- **⚡ Fun Fact:** I enjoy designing intuitive UI and leading student community events.
+- **⚡ Fun Fact:** I like building products that feel simple, smooth, and useful.
+
 
 ---
 
