@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-**🎓 B.Tech CSE Student | VIT Bhopal (2022–2026)**
+**🎓 B.Tech CSE Student | vellore institute of technology (2022–2026)**
 
 - **Currently Working On:** MERN Stack Applications, GenAI based Web Integrations, RAG Pipelines, and LLM Prompt Engineering  
 - **Open to Collaborate On:** Full Stack Projects, GenAI Tools, Open-Source, and Hackathons  
