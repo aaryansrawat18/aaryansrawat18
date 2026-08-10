@@ -22,14 +22,6 @@
 
 
 
-## 🌟 Featured Project
-
-**Multi-Agent AI Assistant Platform**
-Supervisor-based multi-agent architecture with specialized agents, RAG over **Qdrant**, microservices backend, and Razorpay-based credit billing.
-`React` `Node.js` `LangGraph` `Qdrant` `Microservices` `Razorpay`
-
----
-
 # 🛠️ Tech Stack
 
 <table align="center">
