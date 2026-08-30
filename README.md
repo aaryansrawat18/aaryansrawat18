@@ -9,7 +9,7 @@
 
 🎓 **B.Tech CSE Student | Vellore Institute of Technology, Bhopal (2022–2026)**
 
-- 🤖 **AI Engineer** building production-grade **Agentic AI systems, multi-agent architectures, and RAG pipelines** at **Veup Technology**
+- 🤖 **AI Engineer ** building production-grade **Agentic AI systems, multi-agent architectures, and RAG pipelines** at **Veup Technology**
 - 🧠 Core Focus: LLM Orchestration, Agentic Workflows (**LangGraph**), LLM Observability & Evaluation (**LangSmith**), Retrieval-Augmented Generation, Vector Search, Prompt Engineering, Embeddings, Model Context Protocol (MCP)
 - 🔍 RAG & Retrieval: Vector Databases (Qdrant, Pinecone, pgvector), Chunking Strategies, Hybrid Search, Semantic Search, Context Engineering
 - 🏗️ LLM App Engineering: LangChain, OpenAI APIs, Anthropic Claude API, Hugging Face, Structured Outputs (Pydantic), Tool/Function Calling
