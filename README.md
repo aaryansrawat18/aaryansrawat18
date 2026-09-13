@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##👨‍💻 About Me
 
 🎓 **B.Tech CSE Student | Vellore Institute of Technology, Bhopal (2022–2026)**
 
