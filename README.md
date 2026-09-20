@@ -4,8 +4,7 @@
 <img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
-
-##👨‍💻 About Me
+👨‍💻 About Me
 
 🎓 **B.Tech CSE Student | Vellore Institute of Technology, Bhopal (2022–2026)**
 
