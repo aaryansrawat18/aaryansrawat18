@@ -17,7 +17,7 @@
 - 🏆 2x Smart India Hackathon Finalist | Top 3 — IIT Indore Ideathon | UI/UX Hackathon Winner
 - 📫 Reach Me: **aaryansinghrawat20044@gmail.com**
 - 💼 LinkedIn: [Aaryan Singh Rawat](https://www.linkedin.com/in/aaryan-singh-rawat-575722252/)
-- ⚡ Fun Fact: I learn best by shipping real production AI systems, not just tutorials.
+- ⚡ Fun Fact: I learn best by shipping real production AI systems, not just tutorials .
 
 ---
 
