@@ -105,15 +105,7 @@
 
 ---
 
-# 🧠 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/u/aaryansrawat18/">
-    <img src="https://leetcard.jacoblin.cool/aaryansrawat18?theme=dark&ext=heatmap" />
-  </a>
-</p>
-
----
 
 # 🤝 Connect With Me
 
